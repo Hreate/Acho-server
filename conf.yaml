@@ -1,0 +1,3 @@
+server:
+  port: 8080 # 注册中心监听的端口
+  eviction-in-s: 3 # 定时剔除失效服务或client的时间间隔 s
